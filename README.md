@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **microservices at Swiftech Solutions, for the company 'Brilla' from Colombia**
 
-- 🌱 I’m currently learning **.NET and PHP**
+- 🌱 I’m currently learning **Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
